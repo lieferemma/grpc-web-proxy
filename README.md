@@ -1,5 +1,7 @@
 # grpc-web-proxy
 
+[![Actions Status](https://github.com/lieferemma/grpc-web-proxy/workflows/CI/badge.svg)](https://github.com/lieferemma/grpc-web-proxy/actions?query=workflow%3A"CI")
+
 This proxy acts as middleware between Lieferemma [Frontend](https://github.com/lieferemma/frontend) and Lieferemma [Backend](https://github.com/lieferemma/backend). It is required to translate traffic from GRPC-web 
 
 ## Getting started
